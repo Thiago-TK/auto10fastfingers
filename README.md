@@ -15,5 +15,5 @@ The idea is not get top score, is just for getting used to the Selenium package 
 
 You will need to download the webdriver for your browser. I used chrome.
 
-chrome: https://chromedriver.chromium.org/downloads.
-firefox (geckodriver): https://github.com/mozilla/geckodriver/releases/.
+- chrome: https://chromedriver.chromium.org/downloads.
+- firefox (geckodriver): https://github.com/mozilla/geckodriver/releases/.
